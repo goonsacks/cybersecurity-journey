@@ -22,14 +22,14 @@ I'm an aspiring cybersecurity professional passionate about offensive security, 
 ## Projects & Labs  
 | Name                     | Description                          | Status       | Link                |  
 |--------------------------|------------------------------------|--------------|---------------------|  
-| TryHackMe Pre-Security   | Beginner's labs write-up            | In Progress   | [Link](your-link)   |  
-| SQL Injection Practice   | Sample SQL scripts and analysis     | In Progress  | [Link](your-link)   |  
+| TryHackMe Pre-Security   | Beginner's labs write-up            | In Progress   |   |  
+| SQL Injection Practice   | Sample SQL scripts and analysis     | In Progress  |   |  
 | Red Team Simulation      | Exploit development and testing     | Planned      |                     |  
 
 ---
 
 ## Contact Me  
-- [LinkedIn](https://linkedin.com/in/edgard-corcovad/)  
+- [LinkedIn][(https://www.linkedin.com/in/edgard-corcovad-305942319/)]
 - [Email](mailto:edgardcorcovado@gmail.com)  
 
 ---
