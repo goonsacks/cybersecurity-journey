@@ -29,7 +29,7 @@ I'm an aspiring cybersecurity professional passionate about offensive security, 
 ---
 
 ## Contact Me  
-- [LinkedIn][(https://www.linkedin.com/in/edgard-corcovad-305942319/)]
+- [LinkedIn](https://www.linkedin.com/in/edgard-corcovad-305942319/)
 - [Email](mailto:edgardcorcovado@gmail.com)  
 
 ---
