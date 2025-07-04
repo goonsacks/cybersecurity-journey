@@ -31,7 +31,10 @@ I'm an aspiring cybersecurity professional passionate about offensive security, 
 ## Contact Me  
 - [LinkedIn](https://www.linkedin.com/in/edgard-corcovad-305942319/)
 - [Email](mailto:edgardcorcovado@gmail.com)  
+## 🧪 Mini Projects
 
+- [Internal DoS Simulator](./internal-dos-simulator) — Simulates TCP flooding for internal lab use
+- [Simple Port Scanner](./simple-port-scanner) — Scans open TCP ports on a target IP
 ---
 
 > “Cybersecurity is not just a profession, it's a commitment to protect and innovate.” 
